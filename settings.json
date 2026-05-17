@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Benbutler174.aternos.me",
-    "port": 46449,
+    "ip": "Benbutler174-8nGc.aternos.me",
+    "port": 27935,
     "version": "",
     "try-creative": false
   },
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
